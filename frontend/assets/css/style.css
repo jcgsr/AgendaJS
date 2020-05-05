@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Merriweather&display=swap');
+
+* {box-sizing: border-box;}
+
+body{
+    background-color: black;
+    color: rgba(245, 222, 179, 0.897);
+    width: 100%;
+    font-family: 'Merriweather', sans-serif;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+table tr td{
+    color:rgba(245, 222, 179, 0.897);
+}
+
+footer{
+    background-color: rgb(7, 7, 31);
+    width: 100%;
+    text-align: center;
+    padding: .5rem;
+    position: fixed;
+    bottom: 0;    
+}
+
+p{
+    padding: 1rem;
+}
+
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+}
+
+.form-group{
+    margin-bottom: 2rem;
+}
+
+.container{
+    position: relative;
+    padding: 2rem;
+    margin-bottom: 3rem;
+}
+
+@media screen and (max-width: 556px){
+    footer{
+        font-size: .6rem;
+    }
+}
