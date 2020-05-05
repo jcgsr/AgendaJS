@@ -21,9 +21,9 @@ footer{
     background-color: rgb(7, 7, 31);
     width: 100%;
     text-align: center;
-    padding: .5rem;
     position: fixed;
     bottom: 0;    
+    font-size: smaller;
 }
 
 p{
