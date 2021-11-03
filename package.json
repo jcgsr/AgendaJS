@@ -26,7 +26,7 @@
     "mongoose": "^5.9.10",
     "regenerator-runtime": "^0.13.5",
     "style-loader": "^1.2.0",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.3",
